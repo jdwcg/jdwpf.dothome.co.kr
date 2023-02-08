@@ -1,5 +1,5 @@
 <?php
-include './include/head.php'
+include_once './include/head.php'
 ?>
 <body>
    
@@ -14,6 +14,6 @@ include './include/head.php'
 
 </body>
 <?php
-include './include/foot.php'
+include_once './include/foot.php'
 ?>
 
